@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #bbb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testing {
+    height: 80px;
+    width: 80px;
+    background-color: #8a4;
+}
+
+.platform {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#player {
+    height: 32px;
+    width: 32px;
+    background-color: #8af;
+    border: 1px solid black;
+    box-sizing: border-box;
+    position: absolute;
+}
