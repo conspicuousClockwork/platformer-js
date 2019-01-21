@@ -4,25 +4,16 @@ html, body {
     background-color: #bbb;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .testing {
     height: 80px;
-    width: 80px;
+    width: 50%;
     background-color: #8a4;
 }
 
 .platform {
     border: 1px solid black;
     box-sizing: border-box;
-}
-
-#player {
-    height: 32px;
-    width: 32px;
-    background-color: #8af;
-    border: 1px solid black;
-    box-sizing: border-box;
-    position: absolute;
 }
